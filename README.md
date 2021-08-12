@@ -59,7 +59,6 @@ Back in the **Terminal 1**:
 
 18- Run `react-native run-ios`
 
-![Netlifx app](/netflix_clone_app.gif)
 
 **Stop application**:
 
@@ -68,7 +67,6 @@ Back in the **Terminal 1**:
 18- Terminal 2: `Ctrl C` to close it
 
 19- Terminal 3 run `brew services stop mongodb-community@5.0`
-
 
 
 ## Tutorial:
