@@ -3,6 +3,7 @@
 ## How to access
 
 1- Clone this repository: https://github.com/vanessamcf/netflix.git
+
 2- Download and Install **MongoDB Compass**
 
 **Terminal 1:**
