@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Eliane Garcia",
+    "email": "eliane.garcia@test.com",
+    "password": "12345678"
+  },
+  {
+    "name": "Juliana Righs",
+    "email": "juliana.righs@test.com",
+    "password": "12345678"
+  },  
+  {
+    "name": "Osmar Lopes",
+    "email": "osmar.lopesa@test.com",
+    "password": "12345678"
+  },
+  {
+    "name": "Michael Fontes",
+    "email": "michael.fontes@test.com",
+    "password": "12345678"
+  }
+]
